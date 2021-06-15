@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main()
 {
+  //这是我的第一个c语言程序
   printf:("hello world");
   return 0;
 }
