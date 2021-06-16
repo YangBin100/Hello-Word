@@ -1,7 +1,7 @@
-#include <stdio.h>
-int main()
+#include <stdio.h>    //标准头文件
+int main()   //主函数
 {
   //这是我的第一个c语言程序
-  printf:("hello world");
-  return 0;
+  printf:("hello world");    //输出：hello world
+  return 0;                  //返回值为0
 }
